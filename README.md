@@ -1,4 +1,5 @@
-# Ralph
+# Eleanor's AI Agent(My custom ralph loop)
+这是我基于snarktan/ralph改造的专属AI代理，用于自动完成我的开发任务。
 
 ![Ralph](ralph.webp)
 
